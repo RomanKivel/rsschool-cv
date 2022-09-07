@@ -5,7 +5,8 @@
 + __Gmail:__ roman.kivel1@gmail.com
 + __LinkedIn:__ [romankivel](https://www.linkedin.com/in/romankivel/)
 + __Phone:__ +375 (33) 642-83-48
-###Profile:
+
+### Profile:
 Junior Front-end Developer.
 I'm looking for a chance to join an innovative development team to inherit the knowledge of experienced professionals, develop my programming skills and gain practical experience in the field of front-end development.
 
