@@ -1,7 +1,7 @@
-#__Roman Kivel__
-######_Junior Front-end Developer_
+# __Roman Kivel__
+###### _Junior Front-end Developer_
 ---
-###Contacts:
+### Contacts:
 + __Gmail:__ roman.kivel1@gmail.com
 + __LinkedIn:__ [romankivel](https://www.linkedin.com/in/romankivel/)
 + __Phone:__ +375 (33) 642-83-48
@@ -10,11 +10,11 @@ Junior Front-end Developer.
 I'm looking for a chance to join an innovative development team to inherit the knowledge of experienced professionals, develop my programming skills and gain practical experience in the field of front-end development.
 
 
-###Education:
+### Education:
 __2016-2021 | Belarusian State University__
 _Laser physics and spectroscopy_
 
-###Experience:
+### Experience:
 __08.2020 - Present | Research and Developer Engineer__
 _IZOVAC DR |_
 
@@ -25,7 +25,7 @@ I started my working path at IZOVAC when I was a student. During my work I've be
 + creative problem solving, teamwork and communication skills;
 + ability to multi-task and drive projects successfully.
 
-###Skills:
+### Skills:
 * English - B1
 * HTML
 * CSS
